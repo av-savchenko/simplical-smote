@@ -1,10 +1,14 @@
-# Acompanying code for the paper Simplicial SMOTE: Oversampling Solution to the Imbalanced Learning Problem, [arxiv](https://arxiv.org/abs/2503.03418), [KDD'25](https://dl.acm.org/doi/10.1145/3690624.3709268)
+# About
+This repository contains acсompanying code for the paper "Simplicial SMOTE: Oversampling Solution to the Imbalanced Learning Problem": [arxiv](https://arxiv.org/abs/2503.03418), [KDD'25](https://dl.acm.org/doi/10.1145/3690624.3709268)
+
+# How to run
 
 1. create and switch to virtual environment, install dependencies from requirements.txt
 2. run main experiment (results are saved into "data" directory)
 
 > $ python experiment.py
 
+# Citing
 If you use our models, please cite the following paper:
 
 ```BibTex
